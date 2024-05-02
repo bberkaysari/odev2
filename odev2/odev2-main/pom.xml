@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.odev</groupId>
-	<artifactId>odev</artifactId>
+	<artifactId>odev2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>odev2</name>
 	<description>Demo project for Spring Boot</description>
